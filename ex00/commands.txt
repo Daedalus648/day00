@@ -1,0 +1,173 @@
+  125  cd desktop
+  126  ls
+  127  cd day00
+  128  ls
+  129  mkdir ex00
+  130  history
+  131  ls
+  132  cd ex00
+  133  ls
+  134  mkdir covers
+  135  cd covers
+  136  mkdir constructeurs
+  137  cd constructeurs
+  138  mkdir Sony
+  139  cd Consoles
+  140  cd Sony
+  141  mkdir Consoles
+  142  cd Consoles
+  143  mkdir PS4
+  144  mkdir PS5
+  145  cd PS4
+  146  cd ../
+  147  CD ../../
+  148  ls
+  149  cd ../
+  150  cd ../
+  151  mv ./playstation_4.unchartedthelostlegacy.jpg ./Sony/Consoles/PS4
+  152  mv ./playstation_4.assassinscreedodyssey.jpg ./Sony/Consoles/PS4
+  153  mv ./playstation_4.watchdogs2.jpg ./Sony/Consoles/PS4
+  154  cd Sony/Consoles/
+  155  mkdir PS5
+  156  cd ../
+  157  cd ../
+  158  ls
+  159  mv ./playstation_5.assassinscreedvalhalla.jpg ./Sony/Consoles/PS5
+  160  mv ./playstation_5.farcry6.jpg ./Sony/Consoles/PS5
+  161  mv ./playstation_5.residentevilvillage.jpg ./Sony/Consoles/PS5
+  162  mv ./playstation_5.residentevilvillage_.jpg ./Sony/Consoles/PS5
+  163  mkdir Nintendo
+  164  cd Nintendo
+  165  mkdir Consoles
+  166  cd Consoles
+  167  mkdir Gamecube
+  168  mkdir Consoles_portables
+  169  cd Consoles_portables
+  170  mkdir Game_boy
+  171  cd ../
+  172  cd ../
+  173  cd ../
+  174  ls
+  175  mv ./gameboy.pokmonred ./Nintendo/Consoles/Consoles_portables/Game_boy
+  176  mv ./gameboy.pokmonred.jpg ./Nintendo/Consoles/Consoles_portables/Game_boy
+  177  mv ./gb_pokemonblue_eu.jpg ./Nintendo/Consoles/Consoles_portables/Game_boy
+  178  mv ./gb_pokemongreen_3.jpg ./Nintendo/Consoles/Consoles_portables/Game_boy
+  179  mv ./gb_pokemonyellow_au.jpg ./Nintendo/Consoles/Consoles_portables/Game_boy
+  180  mv ./gbc_pokemongold.jpg ./Nintendo/Consoles/Consoles_portables/Game_boy
+  181  mv ./ps4_fifa14.jpg ./Sony/Consoles/PS4
+  182  ls
+  183  mv ./gc_mariokartdoubledash.jpg ./Nintendo/Consoles/Gamecube
+  184  mv ./gc_supermariosunshine.jpg ./Nintendo/Consoles/Gamecube
+  185  ls
+  186  mkdir Microsoft
+  187  ls Microsoft
+  188  mkdir Xbox
+  189  rmdir Xbox
+  190  cd Microsoft
+  191  mkdir Consoles
+  192  cd Consoles
+  193  mkdir Xbox
+  194  mkdir Xbox360
+  195  cd ../
+  196  cd ../
+  197  ls
+  198  mv ./x360_callfoduty3.jpg ./Microsoft/Xbox360
+  199  mv ./x360_callofduty2.jpg ./Microsoft/Xbox360
+  200  mv ./x360_callofduty4.jpg ./Microsoft/Xbox360
+  201  mv ./x360_callofdutyblackopsii.jpg ./Microsoft/Xbox360
+  202  cd Microsoft
+  203  ls
+  204  cd Xbox360
+  205  ls
+  206  cd Consoles
+  207  ls
+  208  cd Xbox360
+  209  ls
+  210  cd ../
+  211  cd ../
+  212  ls
+  213  cd ../
+  214  ls
+  215  cd desktop
+  216  ls
+  217  cd day00
+  218  ls
+  219  cd ex00
+  220  mkdir covers
+  221  cd covers
+  222  mkdir constructeurs
+  223  cd constructeurs
+  224  mkdir Sony
+  225  cd Sony
+  226  mkdir Consoles
+  227  cd Consoles
+  228  mkdir PS4
+  229  mkdir PS5
+  230  cd ../../
+  231  ls
+  232  mkdir Nintendo
+  233  cd Nintendo
+  234  mkdir Consoles
+  235  mkdir Consoles_portables
+  236  cd ../
+  237  mkdir Microsoft
+  238  cd Microsoft
+  239  mkdir Consoles
+  240  cd Consoles
+  241  mkdir Xbox
+  242  mkdir Xbox360
+  243  cd ../../
+  244  cd Nintendo
+  245  cd Consoles
+  246  mkdir Gamecube
+  247  cd ../
+  248  cd Consoles_portables
+  249  mkdir Game_boy
+  250  cd ../../
+  251  mkdir Sega
+  252  cd Sega
+  253  mkdir Consoles
+  254  cd Consoles
+  255  mkdir Dreamcast
+  256  cd ../../
+  257  ls
+  258  mv ./playstation_4.assassinscreedodyssey.jpg Sony/Consoles/PS4
+  259  mv ./playtation_4.unchartedthelostlegacy.jpg ./Sony/Consoles/PS4
+  260  mv ./playstation_4.unchartedthelostlegacy.jpgSony/Consoles/PS4
+  261  mv ./playstation_4.unchartedthelostlegacy.jpg./Sony/Consoles/PS4
+  262  ls
+  263  mv ./playstation_4.unchartedthelostlegacy.jpg ./Sony/Consoles/PS4
+  264  mv ./ps4_fifa14.jpg ./Sony/Consoles/PS4
+  265  mv ./playstation_5.assassinscreedvalhalla.jpg ./Sony/Consoles/PS5
+  266  mv ./playstation_5.farcry6.jpg ./Sony/Consoles/PS5
+  267  mv ./playstation_5.residentevilvillage_.jpg ./Sony/Consoles/PS5
+  268  ls
+  269  mv ./playstation_4.watchdogs2.jpg ./Sony/Consoles/PS4
+  270  ls
+  271  mv ./gameboy.pokmonred.jpg ./Nintendo/Consoles_portables/Game_boy
+  272  mv ./gb_pokemonblue_eu.jpg ./Nintendo/Consoles_portables/Game_boy
+  273  mv ./gb_pokemongreen_3.jpg ./Nintendo/Consoles_portables/Game_boy
+  274  mv ./gb_pokemonyellow_au.jpg ./Nintendo/Consoles_portables/Game_boy
+  275  mv ./gbc_pokemongold.jpg ./Nintendo/Consoles_portables/Game_boy
+  276  ls
+  277  mv ./x360_callfoduty3.jpg Microsoft/Consoles/Xbox360
+  278  mv ./x360_callofduty2.jpg Microsoft/Consoles/Xbox360
+  279  mv ./x360_callofduty4.jpg Microsoft/Consoles/Xbox360
+  280  mv ./x360_callofdutyblackopsii.jpg Microsoft/Consoles/Xbox360
+  281  mv ./xbox_360.fableiii.jpg Microsoft/Consoles/Xbox360
+  282  ls
+  283  mv ./xbox_deadoralive3.jpg Microsoft/Consoles/Xbox
+  284  mv ./xbox_deadtorights.jpg Microsoft/Consoles/Xbox
+  285  mv ./xbox_defjamfightforny.jpg Microsoft/Consoles/Xbox
+  286  mv ./xbox_halo2.jpg Microsoft/Consoles/Xbox
+  287  mv ./xbox_halo_2.jpg Microsoft/Consoles/Xbox
+  288  mv ./xbox_jetsetradiofuture_2.jpg Microsoft/Consoles/Xbox
+  289  mv ./xbox_needforspeedunderground2.jpg Microsoft/Consoles/Xbox
+  290  ls
+  291  mv ./dc_jetgrindradio_10.jpg Sega/Consoles/Dreamcast
+  292  mv ./dc_jetsetradio_eu_front.jpg Sega/Consoles/Dreamcast
+  293  mv ./dc_shenmue_eu.jpg Sega/Consoles/Dreamcast
+  294  mv ./dc_shenmueii_5.jpg Sega/Consoles/Dreamcast
+  295  mv ./gc_mariokartdoubledash.jpg Nintendo/Consoles/Gamecube
+  296  mv ./gc_supermariosunshine.jpg Nintendo/Consoles/Gamecube
+  297  ls
